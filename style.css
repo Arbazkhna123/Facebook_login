@@ -1,0 +1,50 @@
+body {
+    background-color: #f0f2f5;
+}
+.row {
+    margin-top: 20%;
+}
+.facebook-container {
+    background-color: white;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 15px;
+    margin-bottom: 20px; /* Added margin for better spacing on small screens */
+}
+.facebook-header {
+    font-size: 48px;
+    font-weight: bold;
+    color: #1877f2;
+    margin-top: 60px;
+}
+.login-container {
+    max-width: 400px;
+    padding: 15px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.login-header {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.login-button {
+    background-color: #1877f2;
+    border-color: #1877f2;
+    font-weight: bold;
+}
+.login-button:hover {
+    background-color: #145dbf;
+    border-color: #145dbf;
+}
+.signup-button {
+    background-color: #42b72a;
+    border-color: #42b72a;
+    font-weight: bold;
+}
+.signup-button:hover {
+    background-color: #36a420;
+    border-color: #36a420;
+}   
